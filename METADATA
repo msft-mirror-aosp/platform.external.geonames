@@ -11,25 +11,25 @@ third_party {
   }
   url {
     type: OTHER
-    value: "Downloaded from https://download.geonames.org/export/dump/cities1000.zip on 2021-06-10, SHA1=9d2798c6df86ffc98a91dda49178f17ea3e5b4fe, see android/version_info/cities1000.zip.headers"
+    value: "Downloaded from https://download.geonames.org/export/dump/cities1000.zip on 2021-07-29, SHA1=4a3ee08e4dd21c7fc136826c0fd4b96b7003103a, see android/version_info/cities1000.zip.headers"
   }
   url {
     type: OTHER
-    value: "Downloaded from https://download.geonames.org/export/dump/cities15000.zip on 2021-06-10, SHA1=fd558dbef046cbd37cef249fe258035865bc49a1, see android/version_info/cities15000.zip.headers"
+    value: "Downloaded from https://download.geonames.org/export/dump/cities15000.zip on 2021-07-29, SHA1=c27eb93f78f5bad551e293a4afcd7321ada28b99, see android/version_info/cities15000.zip.headers"
   }
   url {
     type: OTHER
-    value: "Downloaded from https://download.geonames.org/export/dump/cities500.zip on 2021-06-10, SHA1=5c4dc4a07e043b2e6eeb6ac7621e20960992a21f, see android/version_info/cities500.zip.headers"
+    value: "Downloaded from https://download.geonames.org/export/dump/cities500.zip on 2021-07-29, SHA1=f4baae40e1e4d7bfd21ee4910e583d87ed2b87f1, see android/version_info/cities500.zip.headers"
   }
   url {
     type: OTHER
-    value: "Downloaded from https://download.geonames.org/export/dump/cities5000.zip on 2021-06-10, SHA1=83ecb0d47f8a15db6ea746f7e54d8dfba4d3404e, see android/version_info/cities5000.zip.headers"
+    value: "Downloaded from https://download.geonames.org/export/dump/cities5000.zip on 2021-07-29, SHA1=43007a9d0c43645dbbf5b88e09479fe9698a2b8b, see android/version_info/cities5000.zip.headers"
   }
   url {
     type: OTHER
-    value: "Downloaded from https://download.geonames.org/export/dump/readme.txt on 2021-06-10, SHA1=7dc17472faed8f71aebc3e4cf22af181ef2002fe, see android/version_info/readme.txt.headers"
+    value: "Downloaded from https://download.geonames.org/export/dump/readme.txt on 2021-07-29, SHA1=7dc17472faed8f71aebc3e4cf22af181ef2002fe, see android/version_info/readme.txt.headers"
   }
-  version: "As of 2021-06-10"
-  last_upgrade_date { year: 2021 month: 6 day: 10 }
+  version: "As of 2021-07-29"
+  last_upgrade_date { year: 2021 month: 7 day: 29 }
   license_type: NOTICE
 }
